@@ -1,4 +1,4 @@
-let fullName = (firstName, lastName) => {
+const fullName = (firstName, lastName) => {
     return {
         firstName,
         lastName
